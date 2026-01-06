@@ -1474,6 +1474,19 @@
 # print()
 
 
+# Given a value of N print the below pattern (5 M)
+# N = 3
+#     *
+#   * *
+# * * *
+#   * *
+#     * 
+
+
+n = 3
+
+for
+
 
  
 
